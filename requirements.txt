@@ -18,7 +18,4 @@ langchain-groq
 beautifulsoup4
 huggingface-hub
 transformers
-# torch
-accelerate
-# faiss-cpu
-# chromadb
+

@@ -2,8 +2,8 @@
 Building GenAI Applications with Langchain
 
 libraries to install
-faiss-cpu
-chromadb
-torch
+- faiss-cpu
+- chromadb
+- torch
 
 
