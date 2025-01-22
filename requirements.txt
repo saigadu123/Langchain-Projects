@@ -1,0 +1,24 @@
+langchain[openai]
+langchain-openai
+streamlit
+python-dotenv
+langchain-community
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+pypdf
+
+wikipedia
+arxiv
+langchainhub 
+groq
+langchain-groq
+beautifulsoup4
+huggingface-hub
+transformers
+# torch
+accelerate
+# faiss-cpu
+# chromadb

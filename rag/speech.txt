@@ -1,0 +1,9 @@
+"Attention Is All You Need"[1] is a 2017 landmark[2][3] research paper in machine learning authored by eight scientists working at Google. The paper introduced a new deep learning architecture known as the transformer, based on the attention mechanism proposed in 2014 by Bahdanau et al.[4] It is considered a foundational[5] paper in modern artificial intelligence, as the transformer approach has become the main architecture of large language models like those based on GPT.[6][7] At the time, the focus of the research was on improving Seq2seq techniques for machine translation, but the authors go further in the paper, foreseeing the technique's potential for other tasks like question answering and what is now known as multimodal Generative AI.[1]
+
+The paper's title is a reference to the song "All You Need Is Love" by the Beatles.[8] The name "Transformer" was picked because Jakob Uszkoreit, one of the paper's authors, liked the sound of that word.[9]
+
+An early design document was titled "Transformers: Iterative Self-Attention and Processing for Various Tasks", and included an illustration of six characters from the Transformers animated show. The team was named Team Transformer.[8]
+
+Some early examples that the team tried their Transformer architecture on included English-to-German translation, generating Wikipedia articles on "The Transformer", and parsing. These convinced the team that the Transformer is a general purpose language model, and not just good for translation.[9]
+
+As of 2024, the paper has been cited more than 140,000 times
